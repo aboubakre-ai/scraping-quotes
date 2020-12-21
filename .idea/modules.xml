@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AmazonScrapy/.idea/AmazonScrapy.iml" filepath="$PROJECT_DIR$/../AmazonScrapy/.idea/AmazonScrapy.iml" />
+      <module fileurl="file://D:/datascience/Freelancing/Web Scraping/beautisoup_requests/scrapbs/.idea/scrapbs.iml" filepath="D:/datascience/Freelancing/Web Scraping/beautisoup_requests/scrapbs/.idea/scrapbs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/scrapy.iml" filepath="$PROJECT_DIR$/.idea/scrapy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../scrapy_mongo/.idea/scrapy_mongo.iml" filepath="$PROJECT_DIR$/../scrapy_mongo/.idea/scrapy_mongo.iml" />
+    </modules>
+  </component>
+</project>
