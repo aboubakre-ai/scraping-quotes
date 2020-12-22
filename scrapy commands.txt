@@ -1,4 +1,0 @@
-scrapy startproject name_project
-scrapy crawl name        #in spider  eg.quotes 
-scrapy crawl name -o name_of_file
-scrapy shell link_web_site
